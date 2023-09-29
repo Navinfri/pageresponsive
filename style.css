@@ -1,0 +1,130 @@
+.navbar-image {
+    width: 100px;
+    height: 60px;
+    padding: 5px;
+}
+
+.search {
+    margin-left: 300px;
+    border-radius: 20px;
+    border-color: red;
+    width: 350px;
+}
+
+.image1 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.image2 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.image3 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.image4 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.image5 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.image6 {
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+}
+
+.heading1 {
+    font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .image1 {
+        width: 500px;
+    height: 450px;
+    padding: 40px;
+    }
+
+    .image2 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image3 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image4 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }    
+    
+    .image5 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image6 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+}
+
+@media screen and (min-width >= 992) {
+    .image1 {
+        width: 500px;
+    height: 450px;
+    padding: 40px;
+    }
+
+    .image2 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image3 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image4 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }    
+    
+    .image5 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+    .image6 {
+        width: 500px;
+        height: 450px;
+        padding: 40px;
+    }
+    
+}
